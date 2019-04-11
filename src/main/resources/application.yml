@@ -1,0 +1,9 @@
+server:
+  port: 8527
+spring:
+  application:
+    name: springboot-servlet-demo
+token:
+  wechat:
+    appid: wxf3a75eef981fd9fe
+    appsecret: eefe49a461b7e9b18392690b3965bed9
