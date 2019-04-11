@@ -1,0 +1,2 @@
+# spring-servlet-demo
+一个使用springboot-servlet实现获取微信全局accessToken的demo
